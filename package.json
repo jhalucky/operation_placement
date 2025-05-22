@@ -1,0 +1,17 @@
+{
+  "name": "operation-placemet",
+  "version": "1.0.0",
+  "main": "operation_placement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0"
+  }
+}

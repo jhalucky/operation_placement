@@ -1,0 +1,13 @@
+# Ignore node modules folder (if using Node.js)
+node_modules/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore build or dist folders (optional, if you rebuild on server)
+dist/
+build/
+
+# Ignore editor settings folders
+.vscode/
+.idea/
